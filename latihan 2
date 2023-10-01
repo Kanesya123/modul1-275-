@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <head>
+        <tittle>CODELAB 2 MODUL 1</tittle>
+    </head>
+    <table rowspan="2" border="1" cellpadding="5">
+      <tr>
+        <thead>
+        <td bgcolor="yellow">No</td>
+        <td bgcolor="yellow">Nama</td>
+        <td bgcolor="yellow">NIM</td>
+        <td bgcolor="yellow">Alamat</td>
+        </thead>
+      </tr>
+      <tr>
+        <tbody boder="2" cellpadding="5">
+        <td bgcolor="yellow">1</td>
+        <td bgcolor="yellow">Kanesya Tahira Yuliyansah</td>
+        <td bgcolor="yellow">202110370311275</td>
+        <td bgcolor="yellow">Jl. Soekarno Hatta</td>
+        </tbody>
+      </tr>
+    </table>
+  </body>
+</html>
